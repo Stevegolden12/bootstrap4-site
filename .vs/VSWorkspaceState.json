@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\img",
+    "\\img\\gif"
   ],
-  "SelectedNode": "\\style.css",
+  "SelectedNode": "\\img\\gif",
   "PreviewInSolutionExplorer": false
 }
